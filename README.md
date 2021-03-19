@@ -1,4 +1,4 @@
-# frontend-temp
+# frontend-template
 
 ## Project setup
 ```
